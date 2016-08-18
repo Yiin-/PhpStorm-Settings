@@ -4,5 +4,12 @@
       <action id="ReformatCode" />
       <action id="SaveAll" />
     </macro>
+    <macro name="Format, PHPDocs and Save">
+      <shortuct text="control alt L" />
+      <action id="PhpGeneratePhpDocBlocks" />
+      <shortuct text="control A" />
+      <shortuct text="ENTER" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>
