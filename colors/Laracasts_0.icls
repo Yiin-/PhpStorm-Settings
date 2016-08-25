@@ -1,12 +1,12 @@
 <scheme name="Laracasts" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="mononoki" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
@@ -32,7 +32,6 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_MERGED" value="fa6900" />
     <option name="FILESTATUS_MODIFIED" value="2c7db8" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="bcd42a" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="f36e3a" />
     <option name="FILESTATUS_UNKNOWN" value="d1675a" />
@@ -380,12 +379,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_BRACES">
-      <value />
-    </option>
-    <option name="DEFAULT_BRACKETS">
-      <value />
-    </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="fa6900" />
@@ -417,9 +410,6 @@
       <value>
         <option name="FOREGROUND" value="798891" />
       </value>
-    </option>
-    <option name="DEFAULT_DOT">
-      <value />
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
@@ -477,9 +467,6 @@
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
       </value>
-    </option>
-    <option name="DEFAULT_PARENTHS">
-      <value />
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
@@ -938,9 +925,6 @@
         <option name="FOREGROUND" value="908b25" />
       </value>
     </option>
-    <option name="MACRO_PARAMETER">
-      <value />
-    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="212327" />
@@ -1120,16 +1104,6 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
-    <option name="REGEXP.BRACES">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
-    <option name="REGEXP.BRACKETS">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
     <option name="REGEXP.CHAR_CLASS">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
@@ -1154,11 +1128,6 @@
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="REGEXP.PARENTHS">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
     <option name="REGEXP.QUOTE_CHARACTER">
