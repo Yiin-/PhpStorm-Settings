@@ -6,5 +6,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="alertify" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_alertifyjs_alertify.js_v1.0.10_dist_js_alertify.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_alertifyjs_alertify.js_v1.0.10_dist_js_alertify.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
