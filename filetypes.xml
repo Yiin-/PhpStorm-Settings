@@ -1,10 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Models" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="ContactFieldType.php" type="PLAIN_TEXT" />
-      <mapping ext="stub" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
