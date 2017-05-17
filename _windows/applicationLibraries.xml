@@ -28,5 +28,16 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
+    <library name="jquery.contextMenu" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawgithub.com_medialize_jQuery-contextMenu_master_src_jquery.contextMenu.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_rawgithub.com_medialize_jQuery-contextMenu_master_src_jquery.contextMenu.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
